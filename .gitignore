@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PyCharm specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Installers
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+pip-wheel-metadata/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+pytest_cache/
+.pytest_cache/
+.cache/
+coverage_report/
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pycharm Jupyter Notebook settings
+.ipynb_checkpoints/
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# dotenv
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*
+
